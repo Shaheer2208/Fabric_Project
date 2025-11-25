@@ -1,0 +1,17 @@
+[
+      {
+        "source_rel_url" : "Shaheer2208/Fabric_Project/refs/heads/main/Orders_Data.csv",
+        "sink_folder" : "shoppingmart_Bronze_Orders",
+        "sink_file" : "shoppingmart_orders.csv"
+    },
+    {
+        "source_rel_url" : "Shaheer2208/Fabric_Project/refs/heads/main/customers%20(1).csv",
+        "sink_folder" : "shoppingmart_Bronze_Customers",
+        "sink_file" : "shoppingmart_Customers.csv"
+    },
+    {
+             "source_rel_url" :"/Shaheer2208/Fabric_Project/refs/heads/main/products.csv",
+        "sink_folder" : "shoppingmart_Bronze_Products",
+        "sink_file" : "shoppingMart_products.csv"
+    }
+]
